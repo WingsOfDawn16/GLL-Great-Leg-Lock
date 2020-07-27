@@ -3,6 +3,7 @@
 If you're going to install our product please place our logo close to it.
 
 GLL is a hands-free, foot-operated lock. It is a simple kit, easily installed, no skill required. It fits on almost every public toilet door.
+GLL was created by FIRST LEGO League team 2051 Electric Eagles from the Ma'ayan Shachar regional school in Emek Hefer, Israel.
 
 These are the parts which need to be manufactured: 
  - cubes (3) 3D printed (PLA). filename: PLA cube.stl
